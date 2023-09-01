@@ -3,7 +3,7 @@ rangkuman  Game Mechanics dan Dynamics
 
 # README Mekanika dan Dinamika Permainan
 
-Ini adalah dokumentasi singkat tentang berbagai aspek mekanika dan dinamika permainan dalam proyek kami. Tujuan dari panduan ini adalah untuk memberikan pemahaman yang jelas tentang bagaimana permainan kami berfungsi.
+Tujuan dari panduan ini adalah untuk memberikan pemahaman yang jelas tentang bagaimana permainan berfungsi.
 
 ## Game Mechanics:
 
